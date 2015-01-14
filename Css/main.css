@@ -6,7 +6,7 @@ body {
 
 .container {
   width: 1024px;
-  margin-left:20px; 
+  margin-left: 20px; 
   margin-top: 20px;
 }
 
@@ -24,10 +24,10 @@ h1 {
 }
 
 
-.feature {
-  border: 1px solid #CCCCCC;
-  margin: 30px 0 0 0; 
-  padding: 0 0 5px 0;
+.feature{
+ border: 1px solid #CCCCCC;
+ margin: 30px 0 0 0; 
+ padding: 0 0 5px 0;
 }
 
 
@@ -40,7 +40,7 @@ h2 {
 
 
 .subheading {
-  color: #F07C17;
+  color: #f07c17;
   font-size: 24px;
   font-weight: 700;   
   margin: 0 25px 30px 0; 
@@ -68,6 +68,6 @@ p {
 }
 
 
-.sidebar-left {
+.sidebarleft {
   padding: 0 30px 0 20px;
 }
